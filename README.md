@@ -19,3 +19,7 @@ You can interact with the chatbot directly at [Feynman Chatbot Website](https://
 ## Code
 
 The repo for the code is private and only for personal use
+
+## Important Notes
+
+This is a personal project, so there is no dedicated database to store the chat history, therefore we are using localStorage to store the messages and folders. Make sure to clear history as needed as to not exceed the localStorage storage space.
